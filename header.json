@@ -2,7 +2,7 @@
   "id": "shonen_shuffle",
   "name": "Shonen Shuffle",
   "author": ["Qevrix and Elemental"],
-  "version": "0.2.2",
+  "version": "0.1.1",
   "prefix": "shonen",
   "description": "Adds anime-themed Jokers with scaling abilities and custom sprites.",
   "main_file": "main.lua"
