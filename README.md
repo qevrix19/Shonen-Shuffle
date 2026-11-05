@@ -1,5 +1,5 @@
 🃏 Shonen Shuffle
-Shonen Shuffle is a massive, anime-themed content expansion for Balatro built on the Steamodded (SMODS) framework.
+is a massive, anime-themed content expansion for Balatro built on the Steamodded (SMODS) framework.
 
 Bring the power of anime to your next run with a sprawling roster of custom Jokers, entirely new mechanics, and unique consumables inspired by Naruto, Jujutsu Kaisen, Dragon Ball Z, One Piece, Blue Lock, Bleach, Hunter x Hunter, Solo Leveling, Death Note, and Mashle.
 
