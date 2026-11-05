@@ -24,7 +24,7 @@ Click the green Code button at the top of this repository and select Download ZI
 
 Extract the Shonen-Shuffle-main folder from the ZIP file.
 
-Rename the extracted folder to exactly Shonen-Shuffle (this ensures asset paths work correctly).
+Rename the extracted folder to exactly "Shonen Shuffle" (this ensures asset paths work correctly).
 
 Move the Shonen-Shuffle folder into your Balatro Mods directory:
 
